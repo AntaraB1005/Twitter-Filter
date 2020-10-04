@@ -1,7 +1,7 @@
 # Twitter-Filter
 INSPIRATION
 
-Creation of a Machine Learning Model with the use of Naive Bayes Model to classify tweets of two leaders.
+Creation of a Machine Learning Model with the use of Naive Bayes Algorithm to classify tweets of two leaders.
 
 DETAILS
 
